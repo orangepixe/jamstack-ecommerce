@@ -13,9 +13,16 @@ const Home = ({ inventoryData = [], categories: categoryData = [] }) => {
       <CartLink />
       <div className="w-full">
         <Head>
-          <title>Jamstack ECommerce</title>
-          <meta name="description" content="Jamstack ECommerce Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js." />
-          <meta property="og:title" content="Jamstack ECommerce" key="title" />
+          <title>Alphafly 3 Proto</title>
+          <meta name="description" content="Purchase the Nike Alphafly 3 Proto Road Racing Shoes.  Free delivery and returns on select orders." />
+          <meta property="og:title" content="Alphafly 3 Proto" key="title" />
+          <meta name="keywords" content="Nike Alphafly 3 Proto Men's Road Racing Shoes" />
+          <meta name="robots" content="index, follow" />
+
+          <meta property="og:title" content="Nike Alphafly 3 Proto Men's Road Racing Shoes. Nike RO" />
+          <meta property="og:description" content="Find the Nike Alphafly 3 Proto Men's Road Racing Shoes.  Free delivery and returns on select orders." />
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://nikeaplphafly.com"></meta>
         </Head>
         <div className="bg-blue-300
         p-6 pb-10 smpb-6
